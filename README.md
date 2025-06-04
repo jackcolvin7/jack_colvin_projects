@@ -1,0 +1,1 @@
+Welcome to my GITHUB! I have two folders, one pertaining to my independent research and class work related to my strophysics classes, and another to my explorations of data analytics techniques used in sports analysis (and specifically soccer). Enjoy!
