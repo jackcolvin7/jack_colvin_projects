@@ -1,0 +1,28 @@
+# GAN Galaxy Project
+
+## Overview  
+This project uses a **Generative Adversarial Network (GAN)** to generate realistic galaxy images.  
+The model is trained on real astronomical data and learns to reproduce structures such as spiral arms, elliptical shapes, and irregular galaxies.  
+
+## Features  
+- GAN implementation in PyTorch  
+- Preprocessing pipeline for galaxy datasets  
+- Tools to visualize generated samples during training  
+
+## Requirements  
+- Python 3  
+- PyTorch  
+- NumPy, Matplotlib, and other standard scientific libraries  
+
+## Usage  
+1. Prepare the dataset of galaxy images.  
+2. Run the training script to train the GAN.  
+3. View generated galaxy images in the output folder.  
+
+## Future Improvements  
+- Add conditional generation (cGAN) for specific galaxy types  
+- Improve evaluation with metrics like FID  
+- Train on larger datasets for higher resolution results  
+
+## Acknowledgments  
+This project combines concepts from astrophysics and deep learning to explore how gen
