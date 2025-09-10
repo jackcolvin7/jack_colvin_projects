@@ -1,4 +1,4 @@
-# 🌌 Welcome to My GitHub
+# Welcome to My GitHub!
 
 This repository is organized into two main folders based on my interests and academic background:
 
