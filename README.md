@@ -1,10 +1,10 @@
-# 🌌 Welcome to My GitHub
+# Welcome to My GitHub!
 
 This repository is organized into two main folders based on my interests and academic background:
 
 ---
 
-## 🔭 Astrophysics
+## Astrophysics
 
 This folder contains work related to my major in astrophysics and is divided into two subcategories:
 
@@ -17,14 +17,14 @@ Lab reports based on observational work conducted using the **Stone Edge Observa
 
 ---
 
-## ⚽ Sports Analytics
+## Sports Analytics
 
 This folder contains independent, data-driven projects exploring the application of analytics in sports. Currently, it includes two main **work-in-progress** projects:
 
 ### Shot Optimality in Soccer
 A new metric called **Optimality**, designed to evaluate shot value from a different perspective than traditional **Expected Goals (xG)** models.
 
-### 🔥Player Similarity via Heatmaps
+### Player Similarity via Heatmaps
 Investigating techniques to measure **player similarity using positional heatmaps**, and evaluating its potential utility in **transfer decision-making**.
 
 ---
