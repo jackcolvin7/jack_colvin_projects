@@ -8,7 +8,7 @@ Optimality is defined as a combination of:
 - **Shot Frequency** – how often players or teams actually get into those positions (a simplistic measure of how difficult they are to create).  
 
 By combining these factors, the model provides insight into whether teams and players are more "optimal" when pursuing **many low-xG opportunities** or **fewer, harder-to-create high-xG chances**.  
-Note: This project does not reject that having more overall xg is better, but rather asks the quesion **what is the best, easiest way to hit a given xg threshold?**
+Note: This project does not reject that having more overall xg is better, but rather asks the quesions **what is the best, easiest way to hit a given xg threshold?** and **how can teams maximize the amount of xg they are able to create in a single game**
 
 ## Motivation  
 Traditional xG models focus on shot quality, but they ignore the **creation difficulty** of those chances.  
@@ -40,10 +40,4 @@ This project aims to quantify that trade-off by scaling shot quality with shot c
 - Apply optimality scores to **player decision-making evaluation**.  
 - Explore **team-level styles**, e.g., Liverpool’s shot volume vs. Manchester City’s chance quality.
 - Note: these changes may require finding additional data that I currently do not have access to :(
-
-## Requirements  
-- Python 3  
-- PyTorch  
-- NumPy, Pandas, Matplotlib  
-- Scikit-learn (for RBF interpolation)  
 
